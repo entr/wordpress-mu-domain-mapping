@@ -1,0 +1,15 @@
+{
+  "name": "entr/wordpress-mu-domain-mapping",
+  "description": "Map any blog/site on a WordPressMU or WordPress 3.X network to an external domain.",
+  "type": "wordpress-plugin",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Zlatko Zlatev",
+      "email": "zlatko@ralev.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
